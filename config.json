@@ -1,0 +1,17 @@
+{
+ "ticketCategoryID": "988470059326390283",
+ "ticketNumber": 9,
+ "BACKGROUND": "https://i.pinimg.com/736x/e3/69/7c/e3697cb551adb548d85fdd950e2ca243.jpg",
+ "SECTIONS": [
+  {
+   "name": " Support ",
+   "roleID": "988749111702483044",
+   "image": "https://i.pinimg.com/564x/20/52/27/205227d36902461070de3d6a5616e52c.jpg"
+  },
+  {
+   "name": " Partner ",
+   "roleID": "988747479224811522",
+   "image": "https://i.pinimg.com/564x/20/52/27/205227d36902461070de3d6a5616e52c.jpg"
+  }
+ ]
+}
